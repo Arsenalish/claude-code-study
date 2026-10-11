@@ -8,6 +8,9 @@
 | [2장. 워크플로와 설정](./02-workflow-and-settings.md) | 탐색→계획→구현→커밋, Git 워크플로, 비대화형 모드·파이프, settings.json, 환경 변수, 민감 파일 보호, 권한 |
 | [3장. 에이전트 스킬](./03-agent-skills.md) | SKILL.md 구조, 점진적 로딩, 컨텍스트 비용, 도구 권한, 커스텀 스킬, `context: fork` |
 | [4장. 서브에이전트](./04-subagents.md) | 위임 패턴, 내장·커스텀 서브에이전트, frontmatter, 스킬 주입, 에이전트 팀, `--agent` |
+| [5장. 출력 인터페이스](./05-output-interface.md) | 출력 스타일(내장·커스텀), 상태 표시줄(Bash·PowerShell·Python·Node.js), 대화형 모드 고급 제어와 단축키 |
+| [6장. 메모리와 대화 세션 관리](./06-memory-and-sessions.md) | `CLAUDE.md` 계층, auto memory, import·조건부 로딩, `.claude/rules/`, 체크포인트 심화, 세션 재개·보관 전략 |
+| [7장. 자동화](./07-automation.md) | `-p`·`--bare` 자동화, 훅(이벤트·종료 코드·매처·prompt/agent/HTTP 훅), MCP, 플러그인(LSP·마켓플레이스·배포) |
 
 ## 표시 규칙
 
